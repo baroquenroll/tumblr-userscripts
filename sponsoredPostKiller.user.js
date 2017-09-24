@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Sponsored Post Killer
 // @namespace    http://lepermessiah.net
-// @version      0.1
+// @version      0.2
 // @description  Hide posts on your dashboard by blogs you don't follow
-// @match        https://www.tumblr.com/dashboard
+// @match        https://*.tumblr.com/dashboard/*
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.2.1.min.js
 // ==/UserScript==
