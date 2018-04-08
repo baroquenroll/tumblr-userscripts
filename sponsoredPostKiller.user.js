@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sponsored Post Killer
 // @namespace    https://github.com/baroquenroll
-// @version      0.4
+// @version      0.5
 // @description  Hide posts on your dashboard by blogs you don't follow
 // @match        https://*.tumblr.com/dashboard*
 // @grant        none

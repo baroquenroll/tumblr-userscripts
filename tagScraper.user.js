@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name Tumblr tag scraper
-// @namespace https://github.com/baroquenroll
+// @name        Tumblr tag scraper
+// @namespace   https://github.com/baroquenroll
+// @version     0.1
 // @description Export the post HTML of a Tumblr tag page
-// @include https://www.tumblr.com/tagged/*
-// @include https://tumblr.com/tagged/*
-// @require http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
-// @grant none
+// @include     https://www.tumblr.com/tagged/*
+// @include     https://tumblr.com/tagged/*
+// @require     http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// @grant       none
 // ==/UserScript==
 
 (function() {
