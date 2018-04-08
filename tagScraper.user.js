@@ -4,7 +4,7 @@
 // @description Export the post HTML of a Tumblr tag page
 // @include https://www.tumblr.com/tagged/*
 // @include https://tumblr.com/tagged/*
-// @require http://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
+// @require http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @grant none
 // ==/UserScript==
 

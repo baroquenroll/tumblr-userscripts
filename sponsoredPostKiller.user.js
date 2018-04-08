@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Sponsored Post Killer
-// @namespace    http://lepermessiah.net
+// @namespace    https://github.com/baroquenroll
 // @version      0.4
 // @description  Hide posts on your dashboard by blogs you don't follow
 // @match        https://*.tumblr.com/dashboard*
 // @grant        none
-// @require      https://code.jquery.com/jquery-3.2.1.min.js
+// @require      https://code.jquery.com/jquery-3.3.1.min.js
 // ==/UserScript==
 
 (function($) {
